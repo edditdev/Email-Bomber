@@ -15,3 +15,11 @@
 - **Console GUI**
 - **Friendly, simple ui**
 
+<details>
+  <summary>Click to view Screenshots</summary>
+  <p>TClick to view Screenshots</p>
+ <h>Email bomber screenshot</h>
+  <img src="https://i.imgur.com/zQaRsK5.png" alt="Obraz spoileru">
+  <h>Email bomber console screenshot</h>
+  <img src="https://i.imgur.com/IhwKjjK.png" alt="Obraz spoileru">
+</details>
