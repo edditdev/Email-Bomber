@@ -1,7 +1,7 @@
 # 💣 Email Bomber V2 by eddit
 ## Everything there is free! And this is only place where you can find legit source.
 
-︙Functions
+ ### × Functions
 - Custom subject/body
 - Unlimited victims
 - Change speed (Low, Normal, Medium, High, Extreme)
