@@ -17,11 +17,10 @@
 ### × Screenshots / media
  ### 🖥️ Email bomber screenshot
  <div align="center">
-  <img src="https://i.imgur.com/zQaRsK5.png" alt="Obrazek" width="1300" height="600">
-  <p align="center">eddit</p>
+  <img src="https://i.imgur.com/zQaRsK5.png" alt="Obrazek" width="1100" height="600">
 </div>
 
  <div align="center">
-  <img src="https://i.imgur.com/IhwKjjK.png" alt="Obrazek" width="800" height="400">
-  <p align="center">eddit</p>
+    <p align="center">BOMBER CONSOLE</p>
+  <img src="https://i.imgur.com/IhwKjjK.png" alt="Obrazek" width="750" height="400">
 </div>
