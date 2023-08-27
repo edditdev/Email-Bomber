@@ -1,7 +1,7 @@
 # 💣 Email Bomber V2 by eddit
 ## Everything there is `free`! And this is only place where you can find `legit source`.
 ### coded by eddit (discord: eddit)
-<h>get help with this project there: discord.gg/wrDn5atn8T or add @eddit on discord.</h>
+<h>get help with this project there: https://discord.gg/wrDn5atn8T or add @eddit on discord.</h>
  ### × Functions
 - **Custom subject/body text**
 - **Unlimited victims**
