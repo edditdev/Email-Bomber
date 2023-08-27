@@ -1,5 +1,6 @@
 # 💣 Email Bomber V2 by eddit
-## `Everything there is free! And this is only place where you can find legit source.`
+## Everything there is free! And this is only place where you can find legit source.
+### coded by eddit (discord: eddit)
 
  ### × Functions
 - Custom subject/body
