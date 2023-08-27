@@ -12,5 +12,5 @@
 - Random glitch text in subject/body
 - Status, count of sended/failed actions
 - Console GUI
-- UI
+- Friendly, simple ui
 
