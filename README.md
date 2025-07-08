@@ -1,19 +1,53 @@
-# 💣 Email Bomber V2 by eddit [2025]
+# VERSAL Email Flooder & Spammer
+### Advanced E-MAIL Bomber and flooder by [versal.codes](https://versal.codes)  
+---
 
-### PROJECT MOVED TO VERSAL.PW - STILL FREE, STILL MOST POWERFUL!
-Welcome to **VERSAL**, the ultimate email bombing tool that redefines power and precision. This is a brand-new release packed with unmatched features and exploits you won’t find anywhere else. Best of all? It’s **completely free**. Join our thriving community at [versal.codes/forum](https://versal.codes/forum) and start growing with us today!
-
-
-## Why Versal?
-- **Unrivaled Power**: New exploits, insane speed, and cutting-edge tech.
-- **Free Forever**: No paywalls, no limits pure functionality for everyone.
-- **Community-Driven**: Connect with us on [Discord](https://dc.gg/versal/) and [our forum](https://versal.codes/forum) to share ideas and stay updated.
-<p align="center"> <img src="https://i.imgur.com/o2EBJpa.png" alt="Versal GUI"> </p>
+![GUI](https://i.imgur.com/GMvfTzJ.png)
 
 
-<div>
-<a href="https://www.youtube.com/watch?v=T1lB1APHUJ8">Watch demo</a>
- <p> https://www.youtube.com/watch?v=T1lB1APHUJ8 </p>
-</div>
+## Features
+
+| Feature                       | **Free Version**                        | **Premium Version**                        |
+|------------------------------|-----------------------------------------|--------------------------------------------|
+| Targets per session          | 1                                       | Unlimited                                   |
+| Spam delay                   | 2 seconds                               | None                                        |
+| Daily email limit            | 1,000                                   | 15,000                                      |
+| Watermark                    | ✔️ VERSAL watermark                     | ❌ None                                     |
+| HTML formatting              | ❌ Not supported                        | ✔️ Supported                                |
+| Custom payloads              | ❌ Not supported                        | ✔️ Supported                                |
+| Spam-Filters bypass          | ❌ Not supported                        | ✔️ Supported                                |
+| Subject/body glitching       | ❌ Not available                        | ✔️ Enabled                                  |
+| Exploit-level delivery       | ❌ No                                   | ✔️ Full access                              |
+| Forum rank                   | ❌ No rank                              | ✔️ Premium rank badge                       |
+
+> Choose **Premium** for full control, no limits, and advanced control.
+
+
+## How To Start and use FREE demo?
+
+1. Join to our community (download is there too): [versal.codes](https://versal.codes)  
+2. Get help & share feedback on the [forum](https://versal.codes/forum)  
+3. Join community chat: [Discord](https://dc.gg/versal)  
+4. [Watch demo](https://www.youtube.com/watch?v=T1lB1APHUJ8)  
+
+---
+
+## Notes
+- Built for educational and testing purposes only 🤡
+---
+
+
+## Media
+
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/youtube.png" width="45"/>](https://www.youtube.com/watch?v=-J4f0Hk6Fgw) [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/youtube.png" width="45"/>](https://www.youtube.com/shorts/wlyEfxWptjk)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/youtube.png" width="45"/>](https://www.youtube.com/watch?v=T1lB1APHUJ8) [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/youtube.png" width="45"/>](https://www.youtube.com/watch?v=eAbJCcWorOI)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/youtube.png" width="45"/>](https://www.youtube.com/watch?v=atK4gov7Yuo&t=5s) [<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="125"/>](https://www.tiktok.com/@eddit_me/video/7517469714126245142)
+[<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="125"/>](https://www.tiktok.com/@eddit_me/video/7505584964092595478)
+
+![MEDIASSS](https://i.imgur.com/nKLgE4A.png)
+
+---
+
+
 
 email bomber tutorial, what is email flooding, how email bombers work, email flooder explained, cybersecurity awareness, ethical hacking tools, penetration testing email, email spam attack demo, educational cybersecurity content, email attack prevention, email security tools, white hat hacking, cybersecurity demonstration, email vulnerability test, how to protect email systems, email denial of service, email spammer, email flooder
