@@ -1,4 +1,8 @@
-﻿Imports System.Net
+/// this is old source, not versal. Visit www.versal.codes for more info about our bomber.
+
+
+
+Imports System.Net
 Imports System.Net.Mail
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Tab
 
@@ -331,3 +335,4 @@ Public Class BomberMain
 
     End Sub
 End Class
+
